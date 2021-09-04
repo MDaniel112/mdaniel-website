@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/mdaniel-website/static/js/main.244c6b1a.chunk.js",
+    "main.js.map": "/mdaniel-website/static/js/main.244c6b1a.chunk.js.map",
+    "runtime-main.js": "/mdaniel-website/static/js/runtime-main.6728709f.js",
+    "runtime-main.js.map": "/mdaniel-website/static/js/runtime-main.6728709f.js.map",
+    "static/js/2.589c8263.chunk.js": "/mdaniel-website/static/js/2.589c8263.chunk.js",
+    "static/js/2.589c8263.chunk.js.map": "/mdaniel-website/static/js/2.589c8263.chunk.js.map",
+    "index.html": "/mdaniel-website/index.html",
+    "static/js/2.589c8263.chunk.js.LICENSE.txt": "/mdaniel-website/static/js/2.589c8263.chunk.js.LICENSE.txt",
+    "static/media/3d-modeling.7f7af803.png": "/mdaniel-website/static/media/3d-modeling.7f7af803.png",
+    "static/media/ase.d2464485.png": "/mdaniel-website/static/media/ase.d2464485.png",
+    "static/media/cerna.968d2102.png": "/mdaniel-website/static/media/cerna.968d2102.png",
+    "static/media/coding.403caa3a.png": "/mdaniel-website/static/media/coding.403caa3a.png",
+    "static/media/img_daniel.802fb126.png": "/mdaniel-website/static/media/img_daniel.802fb126.png",
+    "static/media/machine-learning.6c16ae01.png": "/mdaniel-website/static/media/machine-learning.6c16ae01.png",
+    "static/media/ovidius.80d41e5a.png": "/mdaniel-website/static/media/ovidius.80d41e5a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6728709f.js",
+    "static/js/2.589c8263.chunk.js",
+    "static/js/main.244c6b1a.chunk.js"
+  ]
+}
