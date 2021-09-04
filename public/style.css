@@ -1,0 +1,75 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-image: url("../src/components/images/background.svg");;
+}
+
+h1 {
+    line-height: 5rem;
+}
+
+footer {
+    text-align: center;
+}
+
+.main-content {
+    
+    margin: 5vh auto;
+    height: 80%;
+    box-shadow: 0 12px 12px 0 grey;
+}
+
+.card-background {
+    background-color: transparent;
+    align-items: center;
+    font-size: 1.5rem;
+    border: transparent;
+    margin: 3% 0;
+}
+
+.card-img-profile {
+    /* width: 250px;
+    height: 250%; */
+    width: 30vh;
+    height: 30vh;
+}
+
+.skill-card{
+    background-color: transparent;
+    align-items: center;
+    width: 18rem;
+    margin: 50px auto;
+    border: transparent;
+}
+
+.ed-img{
+    width: 40%;
+}
+
+.ed-row{
+    margin: 3% 10px;
+}
+
+.ed-text{
+    text-align: left;
+}
+
+.project-card{
+    height: 100%;
+    min-height: 150px;
+}
+
+.content-row{
+    padding-bottom: 15px;
+}
+
+.contact-icon {
+    font-size: 2rem;
+    padding: 10px 2%;
+  }
+
+.contact-content{
+    margin: 250px 10px;
+}
