@@ -13,7 +13,7 @@ import SkillCard from "./Card";
 
 function Skills() {
     return (
-        <Row>
+        <Row className="content-row">
             <Col md={12} lg={6}>
                 <SkillCard 
                     cName= "skill-card"

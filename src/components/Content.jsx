@@ -18,7 +18,7 @@ function Content(){
 
     return(
         <div className="main-content bg-light">
-            <Row className="d-flex justify-content-center mb-3">
+            <Row className="d-flex justify-content-center mb-3 list-group">
                 <ButtonGroup>
                     <Button variant="light" size="lg" onClick={() => setPageContent(<About />)}>About</Button>
                     <Button variant="light" size="lg" onClick={() => setPageContent(<Skills />)}>Skills</Button>
