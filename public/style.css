@@ -3,7 +3,6 @@ body, html{
     text-align: center;
     margin: 0;
     padding: 0;
-    background-image: url("../src/components/images/background.svg");;
 }
 
 h1 {
@@ -74,13 +73,18 @@ footer {
 }
 
 @media (max-width: 768px) {
+    html, body{
+        min-width: fit-content;
+    }
     .main-content{
         margin: 0 0 30px;
         padding: 1vw;
         box-shadow: none;
+        min-width: 100vw;
     }
     
     .skill-card{
         width: 22rem;
     }
+    
   }
