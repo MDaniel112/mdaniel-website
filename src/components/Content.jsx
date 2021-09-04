@@ -17,7 +17,7 @@ function Content(){
 
 
     return(
-        <Container className="main-content bg-light">
+        <div className="main-content bg-light">
             <Row className="d-flex justify-content-center mb-3">
                 <ButtonGroup>
                     <Button variant="light" size="lg" onClick={() => setPageContent(<About />)}>About</Button>
@@ -33,7 +33,7 @@ function Content(){
                 
                 
             </Row>
-        </Container>
+        </div>
     );
 }
 

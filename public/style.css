@@ -1,4 +1,4 @@
-body {
+body, html{
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     margin: 0;
@@ -16,8 +16,7 @@ footer {
 
 .main-content {
     
-    margin: 5vh auto;
-    height: 80%;
+    margin: 5vh 5vw;
     box-shadow: 0 12px 12px 0 grey;
 }
 
@@ -73,3 +72,15 @@ footer {
 .contact-content{
     margin: 250px 10px;
 }
+
+@media (max-width: 768px) {
+    .main-content{
+        margin: 0 0 30px;
+        padding: 1vw;
+        box-shadow: none;
+    }
+    
+    .skill-card{
+        width: 22rem;
+    }
+  }
