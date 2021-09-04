@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/mdaniel-website/static/js/main.fecb07f6.chunk.js",
-    "main.js.map": "/mdaniel-website/static/js/main.fecb07f6.chunk.js.map",
+    "main.js": "/mdaniel-website/static/js/main.370f3e95.chunk.js",
+    "main.js.map": "/mdaniel-website/static/js/main.370f3e95.chunk.js.map",
     "runtime-main.js": "/mdaniel-website/static/js/runtime-main.6728709f.js",
     "runtime-main.js.map": "/mdaniel-website/static/js/runtime-main.6728709f.js.map",
     "static/js/2.d8fa87f4.chunk.js": "/mdaniel-website/static/js/2.d8fa87f4.chunk.js",
@@ -19,6 +19,6 @@
   "entrypoints": [
     "static/js/runtime-main.6728709f.js",
     "static/js/2.d8fa87f4.chunk.js",
-    "static/js/main.fecb07f6.chunk.js"
+    "static/js/main.370f3e95.chunk.js"
   ]
 }
